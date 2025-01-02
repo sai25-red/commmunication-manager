@@ -109,7 +109,7 @@ Then Upload build file to vercel
 This project has been bulid by Gaddam saicharan
 
 ## Contact
-SHIVAM ANAND - saicharan25102001@gmail.com
+saicharan25102001@gmail.com
 
 Deployed Project Link: https://github.com/sai25-red/commmunication-manager
 
